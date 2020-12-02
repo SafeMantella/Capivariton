@@ -1,4 +1,4 @@
-# capivariton
+# Capivariton
 Códigos em Capivariton de exemplo para o novo microcontrolador CapyAwesome.
 
 # Como transferir seus códigos para cá?
