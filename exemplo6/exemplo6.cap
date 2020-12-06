@@ -1,9 +1,9 @@
-mov 9 acc # ##acc=9
+mov 9 acc ###acc=9
 mov 3 dat
-mov 5 ext # ext=5
+mov 5 ext #ext=5
 
-jeq 8         # jeq avança 8 linhas de código se acc = 0
-    # Segundo loop
+jeq 8         #jeq avança 8 linhas de código se acc = 0
+    #Segundo loop
   jlt 4
     sub dat
     prt acc  
