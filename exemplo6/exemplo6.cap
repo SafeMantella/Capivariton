@@ -8,7 +8,7 @@ jeq 8         # jeq avança 8 linhas de código se acc = 0
     sub dat
     prt acc  
     jmp -3   
-  
+
   add 1
   prt ext
 
