@@ -1,3 +1,5 @@
+#teste do espaço após '#'
+
 mov 9 acc ###acc=9
 mov 3 dat
 mov 5 ext #ext=5
